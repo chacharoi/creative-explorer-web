@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/creative-explorer-web/static/css/main.35c421a6.css",
+    "main.js": "/creative-explorer-web/static/js/main.50b2db26.js",
+    "static/js/453.48ba5413.chunk.js": "/creative-explorer-web/static/js/453.48ba5413.chunk.js",
+    "static/media/Pretendard-Bold.woff": "/creative-explorer-web/static/media/Pretendard-Bold.1f1dbbbf311ffffcc770.woff",
+    "static/media/Pretendard-Light.woff": "/creative-explorer-web/static/media/Pretendard-Light.7d1a33b829142e833fb9.woff",
+    "static/media/Montserrat-Light.otf": "/creative-explorer-web/static/media/Montserrat-Light.dcccd61bf06aba5c5c99.otf",
+    "static/media/Montserrat-Black.otf": "/creative-explorer-web/static/media/Montserrat-Black.6d57563bab4ff423c6b3.otf",
+    "static/media/slick.svg": "/creative-explorer-web/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/creative-explorer-web/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/creative-explorer-web/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/creative-explorer-web/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/creative-explorer-web/index.html",
+    "main.35c421a6.css.map": "/creative-explorer-web/static/css/main.35c421a6.css.map",
+    "main.50b2db26.js.map": "/creative-explorer-web/static/js/main.50b2db26.js.map",
+    "453.48ba5413.chunk.js.map": "/creative-explorer-web/static/js/453.48ba5413.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35c421a6.css",
+    "static/js/main.50b2db26.js"
+  ]
+}
